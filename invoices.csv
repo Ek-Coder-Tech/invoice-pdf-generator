@@ -1,0 +1,7 @@
+invoice_number,date,client_name,client_email,item_description,quantity,unit_price
+INV001,2025-07-01,Acme Corp,contact@acmecorp.com,Website Design,1,500
+INV001,2025-07-01,Acme Corp,contact@acmecorp.com,Monthly Hosting,3,30
+INV001,2025-07-01,Acme Corp,contact@acmecorp.com,Domain Registration,1,15
+INV002,2025-07-03,Globex Ltd,billing@globex.com,Logo Design,1,250
+INV002,2025-07-03,Globex Ltd,billing@globex.com,Brand Guide,1,200
+INV003,2025-07-05,Stark Innovations,admin@stark.com,Consultation,5,100
