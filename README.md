@@ -32,19 +32,18 @@ This Python-based tool automatically generates clean, professional PDF invoices 
    - item_description
    - quantity
    - unit_price
-
 2. Add a `logo.png` (optional) to brand your invoices.
-
 3. Run the `main.py` script. It:
    - Reads the CSV
    - Groups rows by invoice number
    - Creates a styled PDF invoice for each group
-
 4. PDFs are saved in the `invoices/` folder.
 
 ---
 
 ## 📸 Screenshot
+
+Invoice Generator Screenshot:
 
 ![Invoice Generator Screenshot](invoice-generator-screenshot.png)
 
@@ -56,23 +55,20 @@ You’ll find a sample `invoices.csv` included in the project.
 
 ---
 
-## 🙌 Author
+## 👤 Author
 
-**Eric Mutisya**  
-Python Developer | Web Developer | Freelancer  
-Upwork Profile: https://www.upwork.com/freelancers/~012558bab6232e8e65
+**Eric M.**  
+Python Developer & Web Automation Freelancer  
+[View My GitHub Projects](https://github.com/Ek-Coder-Tech)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute this project with attribution.
+MIT License
 
 ---
 
-## 🙋‍♂️ Author's Note
+## 📬 Contact
 
-This project was built as part of my practical journey into freelance development using Python.  
-If you're a client looking for a similar automation or document solution — I'd be happy to help!  
-Let’s connect on [Upwork](https://www.upwork.com/freelancers/~012558bab6232e8e65) or [GitHub](https://github.com/Ek-Coder-Tech).
+For freelance inquiries, please reach out via [Upwork Profile](https://www.upwork.com/freelancers/~012558bab6232e8e65)
